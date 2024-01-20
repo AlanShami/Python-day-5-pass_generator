@@ -1,4 +1,4 @@
-##Day-5_of_Python-PassGenerator
+## Day-5_of_Python-PassGenerator
 
 Credit: [Angela Yu] https://www.udemy.com/share/101Xwi3@Cd5H-edT3Ktu-_5Z3i14xX7vfWAqQSqiDCRRkMUqlu0NXefLQnWpT9ksckT6u1rs-g==/
 
@@ -11,7 +11,7 @@ This is day 5 of 100 of learning Python and creating a project in Python
 - [main.py](https://github.com/AlanShami/Python-day-5-pass_generator/blob/main/main.py)
 
 
-#Comments:
+# Comments:
 Loops, for loop, while loop
  ----------------------------------------
 
